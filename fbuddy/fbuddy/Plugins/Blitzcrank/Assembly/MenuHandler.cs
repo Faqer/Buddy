@@ -28,7 +28,7 @@ namespace fbuddy.Plugins.Blitzcrank.Assembly
             draw.Add("DE", new CheckBox("Draw E"));
             draw.Add("DR", new CheckBox("Draw R"));
 
-            misc.AddSubMenu("Misc");
+            
 
         }
 
